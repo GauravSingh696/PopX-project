@@ -25,8 +25,8 @@ Live demo: [Open app](https://bsb-educaseassignment.netlify.app/)
 ## 🛠️ Setup & Run Locally
 1. **Clone the repository:**
    ```bash
-   https://github.com/Baljender-Singh-Bamrah/Educase-Assignment
-   cd educase-india-assessment
+   https://github.com/GauravSingh696/PopX-project
+   cd PopX-project
    ```
 2. **Install dependencies:**
    ```bash
