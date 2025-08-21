@@ -3,7 +3,7 @@
 A modern, responsive, and visually polished authentication app built with React, CSS, and contemporary web tooling. Create an account, sign in securely, and manage your profile through a clean, elegant interface.
 
 ## 🚀 Demo
-Live demo: [Open app](https://bsb-educaseassignment.netlify.app/)
+Live demo: [Open app](https://popxassignmentt.netlify.app/)
 
 ## ✨ Features
 - Fully responsive layout for desktop and mobile
